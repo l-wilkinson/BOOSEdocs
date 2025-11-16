@@ -1,0 +1,35 @@
+### YamlMime:TableOfContent
+items:
+- uid: BOOSETests
+  name: BOOSETests
+  type: Namespace
+  items:
+  - uid: BOOSETests.BOOSETests
+    name: BOOSETests
+    type: Class
+- uid: BOOSEapp
+  name: BOOSEapp
+  type: Namespace
+  items:
+  - uid: BOOSEapp.AppCanvas
+    name: AppCanvas
+    type: Class
+  - uid: BOOSEapp.BOOSEForm
+    name: BOOSEForm
+    type: Class
+  - uid: BOOSEapp.UnrestrictedCircle
+    name: UnrestrictedCircle
+    type: Class
+  - uid: BOOSEapp.UnrestrictedCommandFactory
+    name: UnrestrictedCommandFactory
+    type: Class
+  - uid: BOOSEapp.UnrestrictedDrawTo
+    name: UnrestrictedDrawTo
+    type: Class
+  - uid: BOOSEapp.UnrestrictedMoveTo
+    name: UnrestrictedMoveTo
+    type: Class
+  - uid: BOOSEapp.UnrestrictedRect
+    name: UnrestrictedRect
+    type: Class
+memberLayout: SamePage

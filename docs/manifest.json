@@ -1,0 +1,228 @@
+{
+  "source_base_path": "C:/Users/Luke/source/documentation",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSETests.BOOSETests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSETests.BOOSETests.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSETests.BOOSETests",
+      "Summary": "<p sourcefile=\"api/BOOSETests.BOOSETests.yml\" sourcestartlinenumber=\"1\">Represents tests for the BOOSE application, specifically testing the functionality of the AppCanvas</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSETests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSETests.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSETests",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSEapp.AppCanvas.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEapp.AppCanvas.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEapp.AppCanvas",
+      "Summary": "<p sourcefile=\"api/BOOSEapp.AppCanvas.yml\" sourcestartlinenumber=\"1\">Represents a drawable canvas that provides methods for drawing shapes, lines, and text.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSEapp.BOOSEForm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEapp.BOOSEForm.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEapp.BOOSEForm",
+      "Summary": "<p sourcefile=\"api/BOOSEapp.BOOSEForm.yml\" sourcestartlinenumber=\"1\">Represents the main form for the BOOSE application, providing a user interface to run BOOSE programs and display the output on a canvas.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSEapp.UnrestrictedCircle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEapp.UnrestrictedCircle.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEapp.UnrestrictedCircle",
+      "Summary": "<p sourcefile=\"api/BOOSEapp.UnrestrictedCircle.yml\" sourcestartlinenumber=\"1\">Represents the UnrestrictedCircle command which draws a circle on the canvas. Importantly, this command does not restrict the radius parameter.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSEapp.UnrestrictedCommandFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEapp.UnrestrictedCommandFactory.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEapp.UnrestrictedCommandFactory",
+      "Summary": "<p sourcefile=\"api/BOOSEapp.UnrestrictedCommandFactory.yml\" sourcestartlinenumber=\"1\">Overrides the CommandFactory to provide unrestricted versions of commands.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSEapp.UnrestrictedDrawTo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEapp.UnrestrictedDrawTo.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEapp.UnrestrictedDrawTo",
+      "Summary": "<p sourcefile=\"api/BOOSEapp.UnrestrictedDrawTo.yml\" sourcestartlinenumber=\"1\">Represents the UnrestrictedDrawTo command which draws a line from the current position to a specified (x, y) coordinate on the canvas without any restrictions.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSEapp.UnrestrictedMoveTo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEapp.UnrestrictedMoveTo.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEapp.UnrestrictedMoveTo",
+      "Summary": "<p sourcefile=\"api/BOOSEapp.UnrestrictedMoveTo.yml\" sourcestartlinenumber=\"1\">Represents the UnrestrictedMoveTo command which moves the drawing cursor to a specified (x, y) coordinate on the canvas without any restrictions.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSEapp.UnrestrictedRect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEapp.UnrestrictedRect.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEapp.UnrestrictedRect",
+      "Summary": "<p sourcefile=\"api/BOOSEapp.UnrestrictedRect.yml\" sourcestartlinenumber=\"1\">Represents the UnrestrictedRect command which draws a rectangle on the canvas. This command does not restrict the width and height parameters.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSEapp.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEapp.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEapp",
+      "Summary": null
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/toc.html"
+        },
+        ".json": {
+          "relative_path": "docs/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
