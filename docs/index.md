@@ -2,10 +2,8 @@
 _layout: landing
 ---
 
-# This is the **HOMEPAGE**.
+# **HOMEPAGE**.
 
-Refer to [Markdown](http://daringfireball.net/projects/markdown/) for how to write markdown files.
+- [BOOSE Form](BOOSEapp.html)
 
-## Quick Start Notes:
-
-1. Add images to the *images* folder if the file is referencing an image.
+- [BOOSE Tests](BOOSETests.html)
